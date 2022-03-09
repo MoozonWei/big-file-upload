@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "scripts": {
     "start": "vite --host --port=3333 & nodemon server/index.js",
+    "start-test": "vite --host --port=3333 & nodemon server/indexx.js",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
